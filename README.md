@@ -1,3 +1,6 @@
 # action-repro
 Repo to simulate Push, Pull Request, Merge events
-push event
+git add .
+git commit -m "Testing webhook push event"
+git push
+
